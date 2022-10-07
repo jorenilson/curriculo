@@ -46,3 +46,13 @@ Zabbix 5.0.8 + Grafana v8.3.2 com integração aos apps WhatsApp & Telegram. Res
 Gerenciamento de WSUS e aplicação das políticas de atualização mensal On Site.
 Certificado em Sistema de Gestão da Informação (ISO/EIC 27001:2013) e Auditor Interno (ISO/IEC
 27701:2019).
+<br>
+<br>
+LG CNS Co., Ltd | Manaus-AM | Jun 2017 - Abr 2018
+<br>Administrador de Redes Sênior
+<br>Na LG CNS, atuei no gerenciamento e administração de ambientes de rede LAN, WAN e WLAN; Como
+analista de redes sênior, fui responsável por planejar, projetar e implementar soluções de rede em alta
+disponibilidade através de topologias redundantes, Física(Dual Path) e Lógica(RSTP, HSRP e VRRP);
+Suporte N1, N2 e N3; Cotação de soluções com fornecedores; Abertura de chamadas com as
+operadoras(ISP); Abertura de chamada (TAC) na Cisco;
+Implantação de embiente de monitoramento Zabbix e notificação de incidentes.
