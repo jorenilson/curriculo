@@ -3,8 +3,6 @@ Network Engineer | ICT Solutions Analyst | Datacenter | DevOps
 
 
 # Contato
-jorenilsonlopes@gmail.com
-Manaus/AM
-Contato(WatsApp): (92)994113835
-Brasileiro
-https://www.linkedin.com/in/jorenilson/
+<br>jorenilsonlopes@gmail.com
+<br>📞+55 92 99411-3835
+<br>🔵https://www.linkedin.com/in/jorenilson/
