@@ -28,8 +28,8 @@ avançadas de comunicação em inglês (escrita e verbal avançadas); Certifica�
 Roteamento Cisco CCNA.
 
 # 👴🏽Experiências
-Flextronics da Amazônia LTDA | Manaus-AM | Fev 2019 - Atualmente
-<br>Analista de Suporte Pleno
+<b>Flextronics da Amazônia LTDA | Manaus-AM | Fev 2019 - Atualmente
+<br><b>Analista de Suporte Pleno
 <br>Na Flex, atuo a mais de 4 anos no planejamento, projeto, implementação e solução de problemas de
 tecnologias avançadas. Como analista de suporte Pleno, sou responsável pelo design de serviços e
 soluções sob medida com base nos requisitos corporativos Global. Suporte de rede responsável pelo
@@ -48,8 +48,8 @@ Certificado em Sistema de Gestão da Informação (ISO/EIC 27001:2013) e Auditor
 27701:2019).
 <br>
 <br>
-LG CNS Co., Ltd | Manaus-AM | Jun 2017 - Abr 2018
-<br>Administrador de Redes Sênior
+<b>LG CNS Co., Ltd | Manaus-AM | Jun 2017 - Abr 2018
+<br><b>Administrador de Redes Sênior
 <br>Na LG CNS, atuei no gerenciamento e administração de ambientes de rede LAN, WAN e WLAN; Como
 analista de redes sênior, fui responsável por planejar, projetar e implementar soluções de rede em alta
 disponibilidade através de topologias redundantes, Física(Dual Path) e Lógica(RSTP, HSRP e VRRP);
