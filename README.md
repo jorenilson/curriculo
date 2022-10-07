@@ -26,3 +26,23 @@ de problemas de DNS, DHCP, SNMP;
 Bacharel em Sistemas de Informação. Pós graduado em Engª de Redes e Telecomunicação, Habilidades
 avançadas de comunicação em inglês (escrita e verbal avançadas); Certificação em Switching e
 Roteamento Cisco CCNA.
+
+# 👴🏽Experiências
+Flextronics da Amazônia LTDA | Manaus-AM | Fev 2019 - Atualmente
+<br>Analista de Suporte Pleno
+<br>Na Flex, atuo a mais de 4 anos no planejamento, projeto, implementação e solução de problemas de
+tecnologias avançadas. Como analista de suporte Pleno, sou responsável pelo design de serviços e
+soluções sob medida com base nos requisitos corporativos Global. Suporte de rede responsável pelo
+monitoramento, solução de problemas em ambientes LAN, WAN e WLAN com foco em objetivos, metas
+e cumprimentos de SLA; Diagnosticar e Prover solução de problemas de Network em equipamentos
+Cisco e HP; Roteadores (1800/2800/3800/4400); Switches L2/L3 (Catalyst
+2900/3750/3560/3850/6500/9500/Procurve) e Ponto de Acesso; Registrar e acompanhar demandas
+de incidentes com a Operadora(ISP); Suporte N1, N2 e N3; Abertura de chamada (TAC) Cisco; Instalação
+e configuração de Servidores Windows Srv 2019 e Linux, Storages e Clustering; Plataforma de
+virtualização em Nuvem VMware, vCenter Mgr Center e vMotion; Implementação local de servidor
+RADIUS para autenticação em dispositivos de rede com integração com contas de admin do AD;
+Implementação de servidor de SYSLOG para registro de eventos; Ferramentas de Monitoramento
+Zabbix 5.0.8 + Grafana v8.3.2 com integração aos apps WhatsApp & Telegram. Responsável pelo
+Gerenciamento de WSUS e aplicação das políticas de atualização mensal On Site.
+Certificado em Sistema de Gestão da Informação (ISO/EIC 27001:2013) e Auditor Interno (ISO/IEC
+27701:2019).
