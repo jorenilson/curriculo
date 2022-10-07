@@ -63,3 +63,12 @@ Implantação de embiente de monitoramento Zabbix e notificação de incidentes.
 <br>No Instituto SIDIA, atuei por 1 ano 5 meses como suporte técnico em hardware e software.
 Administração de contas de usuários do AD em Windows Srv 2016 e troubleshooting, suporte técnico e
 treinamento de usuários. Suporte a equipamentos de rede CISCO.
+
+# 👴🏽Educação
+<b>Graduação em Sistemas de Informaçã | Manaus-AM | Jan 2016 - Dez 2020</b>
+<br>Universidade Uninorte
+<br><b>Pós Graduação em Engenharia de Redes e Telecomunicação | Manaus-AM | Set 2021 - Ago 2022</b>
+<br>Universidade Unyleya
+
+
+
