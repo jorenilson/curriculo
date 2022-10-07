@@ -60,6 +60,6 @@ Implantação de embiente de monitoramento Zabbix e notificação de incidentes.
 <br>
 <b>SIDIA</b> | Manaus-AM | Jan 2016 - Mai 2017
 <br><b>Suporte Técnico</b>
-No Instituto SIDIA, atuei por 1 ano 5 meses como suporte técnico em hardware e software.
+<br>No Instituto SIDIA, atuei por 1 ano 5 meses como suporte técnico em hardware e software.
 Administração de contas de usuários do AD em Windows Srv 2016 e troubleshooting, suporte técnico e
 treinamento de usuários. Suporte a equipamentos de rede CISCO.
