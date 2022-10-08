@@ -70,5 +70,8 @@ treinamento de usuários. Suporte a equipamentos de rede CISCO.
 <br><b>Pós Graduação em Engenharia de Redes e Telecomunicação | Manaus-AM | Set 2021 - Ago 2022</b>
 <br>Universidade Unyleya
 
+# 🌐Idioma
+Inglês Avançado
+
 
 
