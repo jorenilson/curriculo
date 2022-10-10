@@ -9,8 +9,17 @@ Email: jorenilsonlopes@gmail.com
 
 # 💡Conhecimento
 • Sistemas de controle de versão (git, svn)
+<br>• Docker: administração de containers
+<br>• Introdução à Computação em Nuvem AWS
+<br>• Linux Profissional
+<br>• PFSense Firewall Completo, FAME Treinamentos
+<br>• Certificação Cisco CCNA R&S 200-301
+<br>• Formação de Auditor Interno ISO/IEC 27701:2019
+<br>• Cisco Cybersecurity
+<br>• Software de Monitoramento Zabbix/Grafana/Cacti/PRTG/Nagios
+<br>• Auditor Interno do Sistema de Gestão da Inf. ISO/EIC 27001:2013
+<br>• Aplicação DevOps
 <br>• Inglês
-
 
 # 🎯Objetivos
 Profissionalmente atuei em grandes corporações e instituto de tecnologia integrada a equipes
