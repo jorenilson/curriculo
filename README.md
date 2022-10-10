@@ -7,6 +7,11 @@ Email: jorenilsonlopes@gmail.com
 <br>Telefone: +55 92 99411-3835 (WhatsApp 24h)
 <br>Linkedin: https://www.linkedin.com/in/jorenilson/
 
+# 💡Conhecimento
+• Sistemas de controle de versão (git, svn)
+<br>• Inglês
+
+
 # 🎯Objetivos
 Profissionalmente atuei em grandes corporações e instituto de tecnologia integrada a equipes
 multicultural e distribuída mundialmente com interação com equipes de TI e Business, além de contato
