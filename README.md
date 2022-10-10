@@ -2,7 +2,7 @@
 _Network Engineer | ICT Solutions Analyst | Datacenter | DevOps Jr_
 
 [Download Currículo](https://jorenilson.github.io/cv/resume.pdf)
-
+..
 # 📞Contato
 Email: jorenilsonlopes@gmail.com
 Telefone: +55 92 99411-3835 (WhatsApp)
