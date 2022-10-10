@@ -1,11 +1,12 @@
-# Jorenilson Lopes dos Santos (currículo)
-Network Engineer | ICT Solutions Analyst | Datacenter | DevOps
+# Jorenilson Santos
+_Network Engineer | ICT Solutions Analyst | Datacenter | DevOps Jr_
 
+[Download Currículo](https://jorenilson.github.io/cv/resume.pdf)
 
 # 📞Contato
 Email: jorenilsonlopes@gmail.com
-<br>Telefone: +55 92 99411-3835 (WhatsApp 24h)
-<br>Linkedin: https://www.linkedin.com/in/jorenilson/
+Telefone: +55 92 99411-3835 (WhatsApp)
+Linkedin: https://www.linkedin.com/in/jorenilson/
 
 # 💡Conhecimento
 • Sistemas de controle de versão (git, svn)
@@ -87,5 +88,5 @@ treinamento de usuários. Suporte a equipamentos de rede CISCO.
 # 🌐Idioma
 Inglês Avançado
 
-
-
+# 👨🏼‍🎓Certificação
+CISCO CCNA 200-125
